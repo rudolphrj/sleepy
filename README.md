@@ -1,7 +1,7 @@
 # Sleepy
 A port of [sleepyti.me] to the command line.
 
-Must use 24HR time
+Must use 24HR time.
 
 ## Install
 ```
