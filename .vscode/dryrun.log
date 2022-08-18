@@ -1,5 +1,0 @@
-make --dry-run --always-make --keep-going --print-directory
-make: Entering directory `/Users/rudy/code/repos/sleepy'
-gcc -o sleepy sleepy.c
-make: Leaving directory `/Users/rudy/code/repos/sleepy'
- 
