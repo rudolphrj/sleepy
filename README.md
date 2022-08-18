@@ -1,5 +1,5 @@
 # Sleepy
-A port of [sleepyti.me] to the command line.
+A port of [sleepyti.me](sleepyti.me) to the command line.
 
 Must use 24HR time.
 
